@@ -1,2 +1,2 @@
 # Jogo-da-Cobrinha
-Fiz esse jogo usando Python. 
+Fiz esse jogo usando javaScript. 
